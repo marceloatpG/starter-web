@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marcelo Pereira marcelo@git.com @marceloatp
 
 # THANKS
 
